@@ -9,6 +9,8 @@ Sockets Links.
  server .
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
+Developed By: Gokul C
+Register No:212223240040
 
 ### SERVER:
 ```
